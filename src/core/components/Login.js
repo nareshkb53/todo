@@ -41,7 +41,7 @@ const Login = (props) => {
     <Row>
       <Col span={12} offset={6}>
         <div className='Login'>
-            <Divider plain><h3>Login</h3></Divider>
+            <Divider plain><h3>Login!!</h3></Divider>
             Email:<input placeholder='Enter Your Email' ref={emailRef} className='inputLogin'/>
             Password:<input   placeholder='Enter Your Password' ref={pwd} type='password' className='inputLogin' />
             <Row>
